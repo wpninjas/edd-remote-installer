@@ -1,14 +1,13 @@
 <?php
 /**
  * Plugin Name: EDD - Remote Installer
- * Plugin URL: https://github.com/aristath/edd-remote-installer
  * Description: Allows remote installation of WordPress plugins and themes
  * Version: 2.0.1-beta
  * Author: Aristeides Stathopoulos
  * Author URI: http://aristeides.com
  * Contributors: aristath, austyfrosty
  * Text Domain: edd_ri
- * GitHub Plugin URI: https://github.com/aristath/edd-remote-installer
+ * GitHub Plugin URI: https://github.com/wpninjas/edd-remote-installer
  * GitHub Branch: master
  */
 
