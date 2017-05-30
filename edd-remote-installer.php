@@ -14,6 +14,10 @@
 // Exit if accessed directly
 defined( 'ABSPATH' ) || exit;
 
+if( ! defined( 'EDD_RI_IS_SERVER' ) ) {
+	define( 'EDD_RI_IS_SERVER', true );
+}
+
 if ( ! defined( 'EDD_RI_PLUGIN_URL' ) ) {
 	define( 'EDD_RI_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
 }
